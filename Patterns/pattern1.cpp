@@ -5,6 +5,7 @@ int main(){
     int n;
     cin>>n;
 
+// i=row, j=column
     int i=1;
 
     while(i<=n){
